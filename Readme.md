@@ -1,6 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Вячеслав Ощепков](https://up.htmlacademy.ru/htmlcss/18/user/428659).
+* Наставник: [Андрей Рычагов](https://htmlacademy.ru/profile/id50483).
 
 ---
 
